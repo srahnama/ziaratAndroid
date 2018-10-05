@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size">15sp</dimen>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+</resources>

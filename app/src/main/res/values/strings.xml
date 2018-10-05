@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">"خانه"</string>
+    <string name="title_dashboard">"دیگر برنامه ها"</string>
+    <string name="title_notifications">"درباره ما"</string>
+    <string name="title_settings">"تنظیمات"</string>
+
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"၉၉၉+"</string>
+</resources>
