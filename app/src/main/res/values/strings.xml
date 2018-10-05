@@ -5,5 +5,5 @@
     <string name="title_notifications">"درباره ما"</string>
     <string name="title_settings">"تنظیمات"</string>
 
-    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"၉၉၉+"</string>
+    <string name="app_name">ashouraz</string>
 </resources>
